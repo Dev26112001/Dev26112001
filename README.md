@@ -34,4 +34,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/devrishi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devrishi" /></a></p><br><br>
-[![LeetCode Stats]([https://leetcode.card.workers.dev/dm2758?theme=auto&font=baloo&extension=activity])
+
+[![LeetCode Stats](https://leetcode.card.workers.dev/dm2758?theme=auto&font=baloo&extension=activity)
